@@ -35,6 +35,59 @@ h1 {
   line-height: 1.1;
 }
 
+.header {
+  background-color: #ffcc00;
+  padding: 20px;
+}
+
+.logo {
+  width: 150px;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.envoltura {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.employee-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.employee-card {
+  background: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px gray;
+}
+
+.calculator input {
+  padding: 10px;
+  margin: 5px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.buttons button:hover {
+  background-color: #0056b3;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
